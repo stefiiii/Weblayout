@@ -235,7 +235,7 @@ nav a{
 	float:left;
 	position:absolute;
 	left:25px;
-	top:161px;
+	top:145px;
 }
 #rarrow{
 	background:url(images/right.png);
@@ -259,13 +259,13 @@ section{
 	display:block;
 	box-shadow: 0px 0px 3px 2px #898581;
 	padding:12px;
-	
+	margin-left:11px;
 }
 .blocks p{
 	font-size:12px;
 	margin-top:24px;
 }
-#block1, #block2, #block3{margin-right:11px;}
+#first{margin-left:0px; !important;}
 article a{float:right; margin-top:30px;}
 .welcome{
 	background:#FFF;
@@ -320,10 +320,3 @@ footer a{
 	  color:#000;
 	  text-decoration:none;
 }
-
-
-
-
-
-
-
